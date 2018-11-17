@@ -65,14 +65,14 @@ export default class Home extends Vue {}
     position: fixed; /* Fixed Sidebar (stay in place on scroll) */
     z-index: 1; /* Stay on top */
     top: 0; /* Stay at the top */
-    left: 0;
+    right: 0;
     overflow-x: hidden; /* Disable horizontal scroll */
     // padding-top: 20px;
 }
 
 /* The navigation menu links */
 .sidenav a {
-    padding: 6px 8px 6px 16px;
+    padding: 6px 6px 6px 6px;
     text-decoration: none;
     font-size: 25px;
     color: #818181;
@@ -86,8 +86,8 @@ export default class Home extends Vue {}
 
 /* Style page content */
 .main {
-    margin-left: 160px; /* Same as the width of the sidebar */
-    padding: 0px 10px;
+    // margin-left: 0px; /* Same as the width of the sidebar */
+    // padding: 0px 10px;
 }
 
 </style>
