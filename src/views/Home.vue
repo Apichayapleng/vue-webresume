@@ -43,15 +43,16 @@
           Web frontend developer<br>
           May 2017 - June 2017 (1 month)<br><br>
 
-          Codium<br>
+          <b>Codium</b><br>
           Web frontend developer and designer<br>
-          June 2018 - July 2017 (2 month)<br><br>
+          June 2018 - July 2017 (2 month)<br><br><br><br>
           </p>
       </section>
       <section class="section4" id="contact">
         <h2>CONTACT</h2>
         <p>apichayapg@gmail.com<br>
           098-4649892 <br><br> </p>
+        
       </section>
     </div>
   </div>
