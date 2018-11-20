@@ -1,5 +1,6 @@
 {
   "projects": {
-    "staging": "apichayapleng-webresume"
+    "staging": "apichayapleng-webresume",
+    "default": "apichayapleng-webresume"
   }
 }
