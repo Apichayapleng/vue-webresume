@@ -58,7 +58,6 @@
             <a class="btn btn-social-icon" href="https://www.facebook.com/apichayapleng/"><i class="fab fa-facebook-square fa-lg" aria-hidden="true"></i></a>
             <a class="btn btn-social-icon" href="https://www.instagram.com/plengpgg/"><i class="fab fa-instagram fa-lg" aria-hidden="true"></i></a>
             <a class="btn btn-social-icon" href="https://www.pinterest.com/apichayapleng/"><i class="fab fa-pinterest-square fa-lg" aria-hidden="true"></i></a>
-            <br>
           </div>
         
       </section>
