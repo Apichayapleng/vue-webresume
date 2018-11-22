@@ -51,7 +51,15 @@
       <section class="section4" id="contact">
         <h2>CONTACT</h2>
         <p>apichayapg@gmail.com<br>
-          098-4649892 <br><br> </p>
+          098-4649892</p>
+          <div class="social-icon"  style="font-size: 0.5rem;">
+            <a class="btn btn-social-icon" href="https://www.linkedin.com/in/apichayapleng/"><i class="fab fa-linkedin fa-lg"></i></a>
+            <a class="btn btn-social-icon" href="https://github.com/Apichayapleng/"><i class="fab fa-github-square fa-lg"></i></a>
+            <a class="btn btn-social-icon" href="https://www.facebook.com/apichayapleng/"><i class="fab fa-facebook-square fa-lg" aria-hidden="true"></i></a>
+            <a class="btn btn-social-icon" href="https://www.instagram.com/plengpgg/"><i class="fab fa-instagram fa-lg" aria-hidden="true"></i></a>
+            <a class="btn btn-social-icon" href="https://www.pinterest.com/apichayapleng/"><i class="fab fa-pinterest-square fa-lg" aria-hidden="true"></i></a>
+            <br>
+          </div>
         
       </section>
     </div>
@@ -110,4 +118,16 @@ export default class Home extends Vue {}
   background-color: #495E84;
   color: #F9E7D4;
 }
+
+.btn-social-icon {
+  color: #F9E7D4;
+  width: 1rem;
+}
+
+.section4 {
+  p {
+    margin-bottom: 0;
+  }
+}
+
 </style>
